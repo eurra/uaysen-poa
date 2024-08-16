@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/dpac-pci-poa-web/static/css/main.7309afdf.chunk.css",
-    "main.js": "/dpac-pci-poa-web/static/js/main.e84aa515.chunk.js",
-    "main.js.map": "/dpac-pci-poa-web/static/js/main.e84aa515.chunk.js.map",
-    "runtime-main.js": "/dpac-pci-poa-web/static/js/runtime-main.66ddfe50.js",
-    "runtime-main.js.map": "/dpac-pci-poa-web/static/js/runtime-main.66ddfe50.js.map",
-    "static/js/2.ebfc0701.chunk.js": "/dpac-pci-poa-web/static/js/2.ebfc0701.chunk.js",
-    "static/js/2.ebfc0701.chunk.js.map": "/dpac-pci-poa-web/static/js/2.ebfc0701.chunk.js.map",
-    "index.html": "/dpac-pci-poa-web/index.html",
-    "static/css/main.7309afdf.chunk.css.map": "/dpac-pci-poa-web/static/css/main.7309afdf.chunk.css.map",
-    "static/js/2.ebfc0701.chunk.js.LICENSE.txt": "/dpac-pci-poa-web/static/js/2.ebfc0701.chunk.js.LICENSE.txt"
+    "main.css": "/uaysen-poa/static/css/main.7193e86e.css",
+    "main.js": "/uaysen-poa/static/js/main.64670182.js",
+    "index.html": "/uaysen-poa/index.html",
+    "main.7193e86e.css.map": "/uaysen-poa/static/css/main.7193e86e.css.map",
+    "main.64670182.js.map": "/uaysen-poa/static/js/main.64670182.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.66ddfe50.js",
-    "static/js/2.ebfc0701.chunk.js",
-    "static/css/main.7309afdf.chunk.css",
-    "static/js/main.e84aa515.chunk.js"
+    "static/css/main.7193e86e.css",
+    "static/js/main.64670182.js"
   ]
 }
